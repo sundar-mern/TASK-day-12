@@ -1,0 +1,22 @@
+.required:after{
+    content:"*";
+    color: red;
+}
+label{
+    font-weight: bold;
+}
+.checked{
+    color:goldenrod;
+    cursor:pointer;
+}
+input{
+    cursor:pointer;
+}
+#comments{
+    display:flex;
+}
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: large;
+}
